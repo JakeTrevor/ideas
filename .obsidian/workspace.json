@@ -86,7 +86,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "Settleup.md",
+=======
+                "file": "settleup.md",
+>>>>>>> 64331cb0bee16b8895de0a6648c0806cab2940cc
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +107,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "Settleup.md",
+=======
+                "file": "settleup.md",
+>>>>>>> 64331cb0bee16b8895de0a6648c0806cab2940cc
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +134,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "Settleup.md"
+=======
+                "file": "settleup.md"
+>>>>>>> 64331cb0bee16b8895de0a6648c0806cab2940cc
               }
             }
           }
@@ -151,9 +163,13 @@
   },
   "active": "3ee4c35e2c172e94",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "Allergy.md",
+=======
+>>>>>>> 64331cb0bee16b8895de0a6648c0806cab2940cc
     "Macro Receipts.md",
     "JARP portfolio.md",
+    "Allergy.md",
     "Settleup.md",
     "Excalidraw/Drawing 2023-03-30 15.23.35.excalidraw.md",
     "Untitled 1.canvas",

@@ -2,12 +2,15 @@
 
 commands:
 
-| command   | args           | use                                     |
-| --------- | -------------- | --------------------------------------- |
-| /settleup | -              | generates payment link                  |
-| /iowe     | @user $amount  | record @me as owing $amount to @user    |
-| /iamowed  | $amount @users | record @users as owing @me $amount each |
-| /account  | -              | paste                                   |
+| command    | args          | use                                                                 |
+| ---------- | ------------- | ------------------------------------------------------------------- |
+| /settle-up | -             | generates payment link                                              |
+| /i-owe     | @user $amount | record the user who types this command as oweing $amount to @user   |
+| /account   | -             | paste                                                               |
+| /combine   | @user         | flattens the amount owed of the command user and the @user          |
+| /u-owe     | @user $amount | record the @user as oweing the person who typed the command $amount |
+| /display   | @user         | show how much the the user who types this owes @user                |
+|            |               |                                                                     |
 
 endpoints:
 
@@ -27,15 +30,15 @@ interface create_or_add_to_tab {
 } => tabID = {from, to}
 ```
 
-
 ```ts
-type settle  = { 
-	tabs: tabID[];
-} | {
-	all: True;
-}
+type settle =
+  | {
+      tabs: tabID[];
+    }
+  | {
+      all: True;
+    };
 ```
-
 
 ```ts
 type send {
@@ -47,14 +50,7 @@ type send {
 
 ```ts
 interface poke {
-	from: user
-	to: user
+  from: user;
+  to: user;
 }
 ```
-
-housekeeper:
-auto clean tabs;
-i.e. i owe ash 20
-ash owes me 10
-
-so ash owes me nothing and I owe ash 10
