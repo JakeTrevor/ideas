@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Allergy.md",
+                "file": "settleup.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Allergy.md",
+                "file": "settleup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Allergy.md",
+                "file": "settleup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Allergy.md"
+                "file": "settleup.md"
               }
             }
           }
@@ -151,8 +151,8 @@
   "active": "d378e5ba9fb5479f",
   "lastOpenFiles": [
     "Macro Receipts.md",
-    "Allergy.md",
     "JARP portfolio.md",
+    "Allergy.md",
     "Settleup.md",
     "Excalidraw/Drawing 2023-03-30 15.23.35.excalidraw.md",
     "Untitled 1.canvas",
