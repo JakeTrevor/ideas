@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1490806df715b729",
+        "id": "3e721ac6f93c47e8",
         "type": "tabs",
         "children": [
           {
-            "id": "d378e5ba9fb5479f",
+            "id": "e917a6cecc5cdc54",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Allergy.md",
+                "file": "Settleup.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "88520d6b401d5500",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Allergy.md",
+                "file": "Settleup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Allergy.md",
+                "file": "Settleup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Allergy.md"
+                "file": "Settleup.md"
               }
             }
           }
@@ -148,10 +149,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d378e5ba9fb5479f",
+  "active": "3ee4c35e2c172e94",
   "lastOpenFiles": [
-    "Macro Receipts.md",
     "Allergy.md",
+    "Macro Receipts.md",
     "JARP portfolio.md",
     "Settleup.md",
     "Excalidraw/Drawing 2023-03-30 15.23.35.excalidraw.md",
