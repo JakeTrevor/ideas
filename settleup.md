@@ -9,5 +9,5 @@ commands:
 | /account  | -             | paste                                                               |
 | /combine  | @user         | flattens the amount owed of the command user and the @user          |
 | /uowe     | @user $amount | record the @user as oweing the person who typed the command $amount |
-|           |               |                                                                     |
+| /display  | @user         | show how much the the user who types this owes @user                |
 |           |               |                                                                     |
