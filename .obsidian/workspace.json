@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "706e4260a2fe62b2",
+    "id": "b24b22e8f5abf1de",
     "type": "split",
     "children": [
       {
-        "id": "3e721ac6f93c47e8",
+        "id": "2b3ee6407eabbe05",
         "type": "tabs",
         "children": [
           {
-            "id": "e917a6cecc5cdc54",
+            "id": "dfef0582cf7a0e6d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Settleup.md",
+                "file": "settleup.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "d6738cf098a29a30",
+    "id": "f0bf233c99be9299",
     "type": "split",
     "children": [
       {
-        "id": "1adb4e2e1bf9d046",
+        "id": "697ee96254932611",
         "type": "tabs",
         "children": [
           {
-            "id": "3ee4c35e2c172e94",
+            "id": "5640f77a3c074725",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +43,7 @@
             }
           },
           {
-            "id": "63e37131fe130ec1",
+            "id": "d8cb8256d8e03572",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +58,7 @@
             }
           },
           {
-            "id": "f8f0fbf216e1699e",
+            "id": "cb4ab83de75fd58f",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -69,28 +69,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
-    "id": "88520d6b401d5500",
+    "id": "87b7d011191c8513",
     "type": "split",
     "children": [
       {
-        "id": "1c5d81d9a3d05714",
+        "id": "53b3842820204999",
         "type": "tabs",
         "children": [
           {
-            "id": "665337a6a5d2c771",
+            "id": "8455ffe70ec15da8",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "Settleup.md",
-=======
                 "file": "settleup.md",
->>>>>>> 64331cb0bee16b8895de0a6648c0806cab2940cc
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,23 +97,19 @@
             }
           },
           {
-            "id": "99ef8678758c9d02",
+            "id": "f021ac57af288f4a",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
-                "file": "Settleup.md",
-=======
                 "file": "settleup.md",
->>>>>>> 64331cb0bee16b8895de0a6648c0806cab2940cc
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "c8132348b4b4d2f6",
+            "id": "06580a3e81421875",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -129,16 +120,12 @@
             }
           },
           {
-            "id": "1db38eb5a41e14e0",
+            "id": "0f0581a1f96c2c23",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< HEAD
-                "file": "Settleup.md"
-=======
                 "file": "settleup.md"
->>>>>>> 64331cb0bee16b8895de0a6648c0806cab2940cc
               }
             }
           }
@@ -151,29 +138,16 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "3ee4c35e2c172e94",
-  "lastOpenFiles": [
-<<<<<<< HEAD
-    "Allergy.md",
-=======
->>>>>>> 64331cb0bee16b8895de0a6648c0806cab2940cc
-    "Macro Receipts.md",
-    "JARP portfolio.md",
-    "Allergy.md",
-    "Settleup.md",
-    "Excalidraw/Drawing 2023-03-30 15.23.35.excalidraw.md",
-    "Untitled 1.canvas",
-    "Excalidraw",
-    "Untitled.canvas"
-  ]
+  "active": "dfef0582cf7a0e6d",
+  "lastOpenFiles": []
 }
