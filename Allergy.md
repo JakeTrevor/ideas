@@ -6,4 +6,3 @@ With this there are multiple features we could develop:
 - menu filtering  (potentially with cooperation of restraunt)
 	- a whole standard menu building system
 - recipe subsitution generator
-

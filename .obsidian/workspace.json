@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2b3ee6407eabbe05",
+        "id": "5294b79683ede7fa",
         "type": "tabs",
         "children": [
           {
-            "id": "dfef0582cf7a0e6d",
+            "id": "9982dace103d6fac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "settleup.md",
+                "file": "Allergy.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "settleup.md",
+                "file": "Allergy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "settleup.md",
+                "file": "Allergy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "settleup.md"
+                "file": "Allergy.md"
               }
             }
           }
@@ -148,6 +148,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dfef0582cf7a0e6d",
-  "lastOpenFiles": []
+  "active": "9982dace103d6fac",
+  "lastOpenFiles": [
+    "Macro Receipts.md",
+    "Jorney To the West.md",
+    "settleup.md",
+    "JARP portfolio.md",
+    "Allergy.md"
+  ]
 }

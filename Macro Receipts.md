@@ -21,3 +21,15 @@ There are many ways we could approach this problem;
 a) simple and dumb: produce an average over multiple weeks. A convolution would allow us to track change over time while still using this solution.
 b) simple, a bit less dumb: ask the user about what they eat/in what timeframe.
 c) more complex: attempt to figure out 
+
+# MVP:
+- receipt photo to list & macros
+- allow user to patch macros
+	- some system for weird oneoffs
+- keep an inventory of what you have
+- use items up for meals
+- save meals
+	- record meals feature
+- progressive adoption
+
+
